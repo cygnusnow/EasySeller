@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">EasySeller</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">action setting</string>
+    <string name="login_user_textview">Account</string>
+    <string name="login_user_hint">your email address</string>
+    <string name="login_button">Login</string>
+    <string name="regisgter_button">Register</string>
+    <string name="login_pwd_checkbox">Remember password</string>
+    <string name="login_account_checkbox">Remember account</string>
 
 </resources>
